@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    background-image: url('image.webp');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    color: white;
+    
+
+#main-logo {
+    width: 100px;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
+   
